@@ -1,7 +1,6 @@
 package com.gleb_dev.my_auction.controller;
 
-import com.gleb_dev.my_auction.entity.Lot;
-import com.gleb_dev.my_auction.repository.LotRepository;
+
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
