@@ -2,5 +2,7 @@ myAuction is my test Spring Boot application using Quartz for job scheduling, Th
 
 Before you start:
 1) install PostgreSQL
-2) create DB "my_auction"
-3) create DB "my_auction_quartz" with default Quartz schema for postgre
+2) create DB "my_auction" with default Quartz schema for postgre
+
+Or:
+  Use docker with docker-compose.yml
